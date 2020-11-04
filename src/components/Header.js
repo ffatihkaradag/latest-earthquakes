@@ -3,7 +3,7 @@ import './Header.css';
 function Header() {
   return (
     <div className="header">
-     <a href="/" className="logo">./last-eartquake</a>
+     <a href="/" className="logo">./last-eartquakes</a>
 		<form className="search">
 			<input type="text" placeholder="Search" id="search-input"/>
 		</form>
